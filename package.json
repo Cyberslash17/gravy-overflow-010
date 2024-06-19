@@ -6,7 +6,7 @@
     "eslint": "8.57.0"
   },
   "scripts": {
-    "postinstall": "echo $FLAG_GRAVY_OVERFLOW_L0_GRAVY | base64",
+    "postinstall": "echo $FLAG_GRAVY_OVERFLOW_L0_TOPPINGS | base64",
     "lint": "eslint app.js",
     "start": "node app.js"
   }
